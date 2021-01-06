@@ -1,0 +1,2 @@
+# ZadDruzynowaLab6
+GitTeam
